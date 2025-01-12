@@ -40,3 +40,15 @@ A build phases runs the "Launch Android APK" script that
 will deploy the transpiled app a running Android emulator or connected device.
 Logging output for the iOS app can be viewed in the Xcode console, and in
 Android Studio's logcat tab for the transpiled Kotlin app.
+
+
+## IOS ANDROID USING SWIFTUI
+
+![Simulator Screenshot - iPhone 15 - 2025-01-12 at 15 55 57](https://github.com/user-attachments/assets/df7f8124-e040-446f-b731-9147ce8c617f)
+
+![Screenshot_1736677523](https://github.com/user-attachments/assets/4b209484-5638-4766-b87e-bc66c8e4678a)
+
+
+
+
+
